@@ -27,12 +27,12 @@ Ce projet illustre la mise en place d’un système CRUD complet ainsi que l’e
 
 Ce projet a été conçu pour :
 
-✔️ Implémenter un système de gestion des employés
-✔️ Manipuler une base de données relationnelle avec SQLite
-✔️ Appliquer les opérations CRUD (Create, Read, Update, Delete)
-✔️ Exploiter les données avec Pandas
-✔️ Écrire et exécuter des requêtes SQL
-✔️ Analyser des données d’entreprise simples
+- ✔️ Implémenter un système de gestion des employés
+- ✔️ Manipuler une base de données relationnelle avec SQLite
+- ✔️ Appliquer les opérations CRUD (Create, Read, Update, Delete)
+- ✔️ Exploiter les données avec Pandas
+- ✔️ Écrire et exécuter des requêtes SQL
+- ✔️ Analyser des données d’entreprise simples
 
 
 ## 🗄️ Base de Données
@@ -91,9 +91,9 @@ Le projet inclut également une partie analytique :
 
 #### Exemples :
 
-✔️ Afficher tous les employés
-✔️ Identifier les départements uniques
-✔️ Calculer des statistiques (ex : moyenne)
+- ✔️ Afficher tous les employés
+- ✔️ Identifier les départements uniques
+- ✔️ Calculer des statistiques (ex : moyenne)
 
 ```python
 df = pd.read_sql_query("SELECT * FROM employees", conn)
@@ -153,12 +153,12 @@ kompass.ipynb
 
 ## 💡 Compétences Démontrées
 
-✔️ Manipulation de bases de données SQLite
-✔️ Programmation orientée objet en Python
-✔️ Implémentation CRUD
-✔️ Requêtes SQL
-✔️ Analyse de données avec Pandas
-✔️ Structuration d’un mini système de gestion
+- ✔️ Manipulation de bases de données SQLite
+- ✔️ Programmation orientée objet en Python
+- ✔️ Implémentation CRUD
+- ✔️ Requêtes SQL
+- ✔️ Analyse de données avec Pandas
+- ✔️ Structuration d’un mini système de gestion
 
 
 ## 🤝 Contributions
